@@ -10,4 +10,4 @@ el tercer semestre de la Licenciatura en Informática en la Universidad de la Si
 estoy en proceso de aprendizaje sobre el manejo de lenguaje C, C++ y próximamente Python, 
 también estoy empezando una nueva experiencia con Git Hub.
 
-![bb51f049-e028-419f-b3e5-f29e24eb0c1d](https://github.com/user-attachments/assets/31d65504-cbf2-4f91-84c8-6914406e6b74)
+![7d1bd720-cc6c-4dc4-8535-52aa92db9996](https://github.com/user-attachments/assets/4f92663d-5774-4702-b2ac-87565f6fc618)
